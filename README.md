@@ -34,7 +34,7 @@ A window will open showing the webcam feed with real-time object detections. To 
 ### Detected Classes
 The model can detect a variety of objects, including people, vehicles, animals, appliances, and more. The full list of classes can be found in the project code.
 
-# Spanish
+# Español
 ### Descripción del Proyecto
 Este proyecto utiliza el modelo YOLO (You Only Look Once) para la detección en tiempo real de objetos en imágenes capturadas desde una cámara web. La implementación se realiza en Python, utilizando la biblioteca ultralytics para el modelo YOLO y cv2 para el procesamiento de imágenes y la captura de video.
 
